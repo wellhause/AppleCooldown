@@ -1,0 +1,5 @@
+---
+"cooldown-seconds": 15 #for Golden Apples
+"enchanted-cooldown-seconds": 5 #For enchanted apples
+"has-cooldown-message": "Вы сможете кушать зачарованное яблоко через {TIME} секунд!" #text what have creates in chat and say cooldown
+...
